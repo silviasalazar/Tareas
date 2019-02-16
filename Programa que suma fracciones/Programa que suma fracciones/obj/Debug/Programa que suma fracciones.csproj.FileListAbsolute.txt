@@ -1,0 +1,7 @@
+C:\Users\salaz\Desktop\Programa que suma fracciones\Programa que suma fracciones\obj\Debug\Programa que suma fracciones.csprojAssemblyReference.cache
+C:\Users\salaz\Desktop\Programa que suma fracciones\Programa que suma fracciones\obj\Debug\Programa que suma fracciones.csproj.CoreCompileInputs.cache
+C:\Users\salaz\Desktop\Programa que suma fracciones\Programa que suma fracciones\bin\Debug\Programa que suma fracciones.exe.config
+C:\Users\salaz\Desktop\Programa que suma fracciones\Programa que suma fracciones\bin\Debug\Programa que suma fracciones.exe
+C:\Users\salaz\Desktop\Programa que suma fracciones\Programa que suma fracciones\bin\Debug\Programa que suma fracciones.pdb
+C:\Users\salaz\Desktop\Programa que suma fracciones\Programa que suma fracciones\obj\Debug\Programa que suma fracciones.exe
+C:\Users\salaz\Desktop\Programa que suma fracciones\Programa que suma fracciones\obj\Debug\Programa que suma fracciones.pdb
